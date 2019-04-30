@@ -6,3 +6,5 @@ The program takes a predefined .csv file namely 'Requirements Dataset.csv' as in
 On converting the accepted search string into a csv file, pandas dataframes are used to read csv files and to generate corresponding dataframes.
 
 scikit learn module is used to import CountVectorizer and cosine_similarity functions
+
+The script provides the cosine similarity matrix as it's final output
